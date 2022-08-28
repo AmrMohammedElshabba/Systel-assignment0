@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="Add_child_btn" data-name="Add child btn" transform="translate(-284.638 -257.611)">
+    <circle id="Ellipse_85" data-name="Ellipse 85" cx="15.5" cy="15.5" r="15.5" transform="translate(284.638 257.611)" fill="#fff"/>
+    <line id="Line_83" data-name="Line 83" x2="13.816" transform="translate(293.138 273.111)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_84" data-name="Line 84" x2="13.889" transform="translate(300.138 266.111) rotate(90)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
